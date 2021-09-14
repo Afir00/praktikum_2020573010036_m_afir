@@ -7,13 +7,20 @@
     <title>Document</title>
 </head>
 <body>
-    <?php
-// ini contoh penggunaan komentar
-echo "Apa kabar?";
-/* Nah ini jugacontoh komentar
-yang ditulis
-lebih dari satu
-*/
-    ?>
+<?php
+    $jalan = "medan - B.aceh";
+    $noRumah = 29;
+    $blok = "4c";
+    $jumlahPenghuni = 3;
+    echo "hasil variabel variabel jalan + variabel noRumah adalah";
+    echo $alamat = $jalan . $noRumah;
+    echo "<BR>";
+    echo "Hasil variabel variabel Norumah + variabel jumlah penghuni adalah";
+    echo $hasil = $norumah + $jumlahpenghuni;
+    echo "<BR>";
+    echo "Hasil variabel variabel blok + variabel no rumah adalah";
+    echo $hasil = $blok + $norumah;
+    echo "<BR>";
+?>
 </body>
 </html>
