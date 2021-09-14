@@ -7,6 +7,16 @@
     <title>Document</title>
 </head>
 <body>
-    
+   <?php
+    $a = 3;
+    $b = 7;
+    $a += 5;
+    $b = ($c = 11) + 3;
+    echo "nilai variabel a adalah = $a";
+    echo "<BR>";
+    echo "nilai Variabel b adalah = $b";
+    echo "<BR>";
+    echo "nilai variabel c adalah + $c";
+   ?>
 </body>
 </html>
