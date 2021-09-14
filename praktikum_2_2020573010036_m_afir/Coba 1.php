@@ -8,7 +8,7 @@
 </head>
 <body>
     <?php
-        echo "Heil hitler";
+        echo "welcome to PHP";
     ?>
 </body>
 </html>
