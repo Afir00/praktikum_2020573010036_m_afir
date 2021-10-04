@@ -7,7 +7,7 @@
     <title>contoh form dengan post</title>
 </head>
 <body>
-    <form action="peoses_login.php" method="post">
+    <form action="proses_login.php" method="post">
         <h1>Untuk halaman login</h1>
         <hr>
         Username : <input type="text" name="username">
